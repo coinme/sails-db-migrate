@@ -18,7 +18,9 @@
     "url": "https://github.com/building5/sails-db-migrate/issues"
   },
   "homepage": "https://github.com/building5/sails-db-migrate",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
   "devDependencies": {},
   "peerDependencies": {
     "db-migrate": ">0.7.0 <0.11 || >=0.10.0-beta.4 <0.11",
